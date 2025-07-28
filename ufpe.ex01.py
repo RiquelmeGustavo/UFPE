@@ -1,4 +1,8 @@
-# Fazer um algoritmo estruturado para cálculo de área de uma circunferência. (pi = 3.14159)
+"""
+Arquivo: ufpe.ex01.py
+Autor: Riquelme Gustavo
+Descrição: Fazer um algoritmo estruturado para cálculo de área de uma circunferência. (pi = 3.14159)
+"""
 
 
 print('Calcular Área da circunferência')
