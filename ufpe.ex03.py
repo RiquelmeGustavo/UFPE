@@ -1,5 +1,5 @@
 """
-Arquivo: ufpe.ex01.py
+Arquivo: ufpe.ex03.py
 Autor: Riquelme Gustavo
 Descrição: Construir um programa para calcular o valor do salário de um professor que ganha por hora aula HA
 e trabalha HT de horas por mês, decontando o valor do INSS que é de D por cento do seu salário total.
