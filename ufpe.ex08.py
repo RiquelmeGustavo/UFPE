@@ -1,4 +1,8 @@
-# Construir um programa para ordenar 3 números dados.
+"""
+Arquivo: ufpe.ex08.py
+Autor: Riquelme Gustavo
+Descrição: Construir um programa para ordenar 3 números dados.
+"""
 
 
 x = float(input('Primeiro número: '))
