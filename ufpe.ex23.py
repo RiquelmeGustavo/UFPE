@@ -2,8 +2,8 @@
 Arquivo: ex018ufpe.py
 Descrição: Cálculo do volume de um paralelepípedo.
 Autor: Riquelme Gustavo
-Data de criação: 22/07/2025
 """
+
 
 def volume(h, b, l):
     return h * b * l
