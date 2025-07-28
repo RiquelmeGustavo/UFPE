@@ -1,6 +1,10 @@
-''' Escreva um programa que realize arredondamentos de números utilizando a regra usual da matemática: se a parte
+"""
+Arquivo: ufpe.ex09.py
+Autor: Riquelme Gustavo
+Descrição: Escreva um programa que realize arredondamentos de números utilizando a regra usual da matemática: se a parte
 fracionária for maior do que ou igual a 0,5, o número é arredondado para o inteiro imediatamente superior,
-caso contrário, é arredondado para o inteiro imediatamente inferior. '''
+caso contrário, é arredondado para o inteiro imediatamente inferior.
+"""
 
 
 num = float(input('Digite um número: '))
