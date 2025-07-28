@@ -1,4 +1,8 @@
-# Identifique um programa que diz quantos dias tem um determinado mês e faça um programa.
+"""
+Arquivo: ufpe.ex07.py
+Autor: Riquelme Gustavo
+Descrição: Identifique um programa que diz quantos dias tem um determinado mês e faça um programa.
+"""
 
 
 mes = str(input('Digite o nome de um mês: ')).strip().title()
