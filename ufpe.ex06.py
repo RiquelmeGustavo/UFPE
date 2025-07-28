@@ -1,5 +1,9 @@
-''' Faça um programa para calcular as médias finais de um aluno, dizer se o mesmo está aprovado e, caso contrário,
-afirmar se o mesmo vai para a final e calcular sua média final e afirmar sua aprovação ou reprovação. '''
+"""
+Arquivo: ufpe.ex06.py
+Autor: Riquelme Gustavo
+Descrição: Faça um programa para calcular as médias finais de um aluno, dizer se o mesmo está aprovado e, caso contrário,
+afirmar se o mesmo vai para a final e calcular sua média final e afirmar sua aprovação ou reprovação.
+"""
 
 
 n1 = float(input('Primeira nota: '))
