@@ -1,4 +1,9 @@
-# Escreva um programa para determinar o maior de três números dados.
+"""
+Arquivo: ufpe.ex10.py
+Autor: Riquelme Gustavo
+Descrição: Escreva um programa para determinar o maior de três números dados.
+""" 
+
 
 x = float(input('Primeiro número: '))
 y = float(input('Segundo número: '))
