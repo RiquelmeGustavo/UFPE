@@ -1,4 +1,8 @@
-# Construir um programa que tire o módulo de um vetor tridimensional.
+"""
+Arquivo: ufpe.ex05.py
+Autor: Riquelme Gustavo
+Descrição: Construir um programa que tire o módulo de um vetor tridimensional.
+"""
 
 
 from math import sqrt
