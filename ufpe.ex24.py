@@ -1,7 +1,7 @@
 """
-Arquivo: ex018ufpe.py
-Descrição: Cálculo do volume de um paralelepípedo.
+Arquivo: ufpe.ex24.py
 Autor: Riquelme Gustavo
+Descrição: Cálculo do volume de um paralelepípedo usando função.
 """
 
 
