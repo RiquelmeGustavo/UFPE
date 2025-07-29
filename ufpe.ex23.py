@@ -1,3 +1,9 @@
+"""
+Arquivo: ufpe.ex23.py
+Autor: Riquelme Gustavo
+Descrição: Escreva uma função que retorne o n-ésimo termo da sequência de Fibbonaci, n dado.
+"""
+
 print('Sequência de Fibonacci')
 
 n = int(input('Digite o número de termos: '))
