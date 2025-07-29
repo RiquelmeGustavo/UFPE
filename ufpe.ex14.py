@@ -1,5 +1,9 @@
-''' Escreva um programa para determinar as raízes reais ou complexas de uma equação do segundo grau,
-dados os seus coeficientes. '''
+"""
+Arquivo: ufpe.ex14.py
+Autor: Riquelme Gustavo
+Descrição: Escreva um programa para determinar as raízes reais ou complexas de uma equação do segundo grau,
+dados os seus coeficientes.
+"""
 
 
 from math import sqrt
