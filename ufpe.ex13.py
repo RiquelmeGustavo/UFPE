@@ -1,10 +1,14 @@
-''' Desenvolva um aplicativo para que calcule a média de três notas acadêmicas em uma disciplina
+"""
+Arquivo: ufpe.ex13.py
+Autor: Riquelme Gustavo
+Descrição: Desenvolva um aplicativo para que calcule a média de três notas acadêmicas em uma disciplina
 semestral de um discente da Universidade X. Observando esse resultado analise se:
 
 a) Teve aprovação (media >= 7,00)
 b) Teve que fazer uma final (3,00 <= media < 7,00) e depois da nota da final se obteve a
 aprovação na final ( (media+prova final)/2 >= 5,00)
-c) Se teve reprovação direta (media <3,00). '''
+c) Se teve reprovação direta (media <3,00).
+"""
 
 
 n1 = float(input('Primeira nota: '))
