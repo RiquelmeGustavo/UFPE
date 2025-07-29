@@ -1,3 +1,12 @@
+"""
+Arquivo: ufpe.ex24.py
+Autor: Riquelme Gustavo
+Descrição: Seja z = y+ix, onde i² = -1, um número complexo. Construa um programa, de dado ze z2, com um menu de seleção que posso 
+selecionar somar, diminuição, multiplicação, fazer o complexo conjugado de z, fazer módulo de z, fazer um produto interno de z, e z2, 
+todas essas funcionalidade implementadas com funções.
+"""
+
+
 class Complexo:
     def __init__(self, real, imaginario):
         self.real = real
@@ -27,9 +36,6 @@ def modulo_complexo(z):
     return (z.real**2 + z.imaginario**2)**0.5
 
 def produto_interno_complexos(z1, z2):
-    # Para números complexos, o "produto interno" pode ser interpretado como o produto escalar
-    # de seus vetores no plano complexo, ou o produto de um pelo conjugado do outro.
-    # Assumindo produto escalar dos vetores (real, imaginario):
     return z1.real * z2.real + z1.imaginario * z2.imaginario
 
 def menu_complexos():
@@ -77,6 +83,4 @@ def menu_complexos():
         else:
             print("Opção inválida. Tente novamente.")
 
-# Para executar o programa com menu:
-# menu_complexos()
 menu_complexos()
