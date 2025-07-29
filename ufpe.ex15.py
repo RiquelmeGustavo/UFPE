@@ -1,4 +1,8 @@
-# Escreva um programa que determine a soma dos quadrados dos n primeiros números naturais, n dado.
+"""
+Arquivo: ufpe.ex15.py
+Autor: Riquelme Gustavo
+Descrição: Escreva um programa que determine a soma dos quadrados dos n primeiros números naturais, n dado.
+""" 
 
 
 termos = int(input('Quantidade de termos: '))
