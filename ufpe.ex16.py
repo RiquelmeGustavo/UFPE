@@ -39,12 +39,15 @@ print(f'{numerador}', end='')
 while True:
     cont += 1
     num = numerador / denominador
-    soma += num
+    if cont % 2 == 0:
+        soma += -num
+    else:
+        soma += num
     denominador += 1
     if cont == termos:
         break
     if denominador % 2 == 0:
-        print(f' - ({numerador}/{denominador})', end='')
+        print(f' - ({numerador}/{-denominador})', end='')
     else:
         print(f' + ({numerador}/{denominador})', end='')
 
