@@ -1,5 +1,5 @@
 """
-Arquivo: ufpe.ex10.py
+Arquivo: ufpe.ex11.py
 Autor: Riquelme Gustavo
 Descrição: Escreva um programa para verificar se um triângulo de lados de comprimentos dados é retângulo, exibindo,
 nos casos afirmativos, sua hipotenusa e seus catetos.
