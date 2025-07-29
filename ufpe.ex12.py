@@ -1,7 +1,10 @@
-''' Dados três comprimentos, seja X1, X2 e X3, crie um algorítimo que afirme se estes formam um triângulo. Sendo um
+"""
+Arquivo: ufpe.ex12.py
+Autor: Riquelme Gustavo
+Descrição: Dados três comprimentos, seja X1, X2 e X3, crie um algorítimo que afirme se estes formam um triângulo. Sendo um
 triângulo implemente o cálculo do seu perímetro e área e faça sua classificação em equilátero, isósceles e escaleno.
-Utilize a fórmula de Heron para o cálculo do perímetro (Perímetro 2p = (X1+X2+X3)
-e a área é A = [p(p-X1)(p-X2)(p-X3)]1/2). '''
+Utilize a fórmula de Heron para o cálculo do perímetro (Perímetro 2p = (X1+X2+X3) e a área é A = [p(p-X1)(p-X2)(p-X3)]1/2).
+"""
 
 
 from math import sqrt
