@@ -1,5 +1,5 @@
 """
-Arquivo: ufpe.ex24.py
+Arquivo: ufpe.ex25.py
 Autor: Riquelme Gustavo
 Descrição: Cálculo do volume de um paralelepípedo usando função.
 """
